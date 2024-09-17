@@ -1,0 +1,268 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Agenda Sportiva - 17/09</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to right, #4facfe, #00f2fe);
+            color: #fff;
+            padding: 20px;
+            margin: 0;
+            text-align: center;
+            line-height: 1.5;
+        }
+        .container {
+            max-width: 800px; /* Larghezza massima per il container */
+            margin: 0 auto; /* Centratura del container */
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.7); /* Sfondo semi-trasparente */
+            border-radius: 10px; /* Angoli arrotondati */
+        }
+        h1 {
+            color: #ffeb3b;
+            font-size: 2em; /* Dimensione aumentata per un maggiore impatto */
+            margin-bottom: 20px;
+            text-shadow: 3px 3px rgba(0, 0, 0, 0.7); /* Ombra più pronunciata */
+            font-weight: bold; /* Grassetto per maggiore enfasi */
+            letter-spacing: 2px; /* Spaziatura tra le lettere */
+        }
+        h2 {
+            color: #ff5722;
+            font-size: 2em;
+            margin: 20px 0 10px; /* Spaziatura uniforme */
+            text-align: left; /* Allineamento a sinistra */
+        }
+        h3 {
+            font-size: 1.5em;
+            margin: 10px 0;
+            color: #ffeb3b;
+            text-align: left; /* Allineamento a sinistra */
+        }
+        .button {
+            display: inline-block;
+            padding: 8px 12px; /* Dimensioni ridotte per i pulsanti */
+            margin: 5px;
+            background-color: #ff5722;
+            color: white;
+            text-decoration: none;
+            border-radius: 15px; /* Arrotondamento più evidente */
+            font-size: 12px; /* Dimensione del testo ridotta */
+            font-weight: bold;
+            border: 2px solid #e64a19;
+            transition: background-color 0.3s, transform 0.2s;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+            width: 100px; /* Larghezza fissa per uniformità */
+            text-align: center; /* Testo centrato */
+        }
+        .button:hover {
+            background-color: #e64a19;
+            transform: scale(1.05);
+        }
+        .button-container {
+            display: flex;
+            flex-wrap: wrap; /* Permette il wrapping dei pulsanti */
+            justify-content: flex-start; /* Allineamento a sinistra */
+            margin: 10px 0; /* Spaziatura verticale */
+        }
+        .button-container div {
+            flex: 0 0 50%; /* Ogni pulsante occupa il 50% della larghezza */
+            display: flex;
+            justify-content: center;
+        }
+        .divider {
+            margin: 20px 0;
+            border-top: 1px solid #ffeb3b; /* Linea di separazione */
+            width: 100%; /* Larghezza della linea */
+            margin-left: auto;
+            margin-right: auto;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 1.2em;
+            color: #fff;
+            text-shadow: 1px 1px rgba(0,0,0,0.5);
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>⚽ Agenda Sportiva - 17 Settembre 2023</h1>
+    <div class="divider"></div>
+
+    <h2>⚽ Calcio - Spagna - La Liga</h2>
+    
+    <h3>19:00 - Mallorca x Real Sociedad</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=66" target="_blank">Link 🇪🇸</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=66" target="_blank">Link 🇪🇸</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=66" target="_blank">Link 🇪🇸</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=66" target="_blank">Link 🇪🇸</a></div>
+    </div>
+    <div class="divider"></div>
+
+    <h2>⚽ Europa - UEFA Champions League</h2>
+    
+    <h3>18:45 - Diretta Goal</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=108" target="_blank">Link 🇮🇹</a></div>
+    </div>
+    
+    <h3>18:45 - Juventus x PSV</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>18:45 - Young Boys x Aston Villa</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>21:00 - Diretta Goal</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=108" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=8" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=108" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>21:00 - Bayern München x Dinamo Zagreb</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=63" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=254" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=63" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=254" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=63" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=254" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=63" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=254" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>21:00 - Milan x Liverpool</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=7" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=107" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=67" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=461" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=252" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=uno" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>21:00 - Sporting CP x Lille</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=64" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=255" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=64" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=255" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=64" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=255" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=64" target="_blank">Link 🏴</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=255" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <h3>21:00 - Real Madrid x Stuttgart</h3>
+    <div class="button-container">
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://pepperlive.info/sportp.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://projectlive.info/live.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://cazztv.xyz/stream.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=6" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=106" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=870" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=253" target="_blank">Link 🇮🇹</a></div>
+        <div><a class="button" href="https://bibobu.xyz/sport.php?id=sc" target="_blank">Link 🇮🇹</a></div>
+    </div>
+
+    <footer>
+        <h3>🏆 Non perdere neanche un minuto di azione! Buona visione e che vinca il migliore! 🎉</h3>
+    </footer>
+</div>
+
+</body>
+</html>
